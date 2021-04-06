@@ -1,6 +1,7 @@
 import './App.css';
 import Pracone from './Pracone';
 import Practwo from './Practwo';
+import Practhree from './Practhree';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <h1>React Hooks</h1>
     <Pracone/>
     <Practwo/>
+    <Practhree/>
     </>
   );
 }
